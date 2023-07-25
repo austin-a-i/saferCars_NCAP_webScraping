@@ -47,7 +47,7 @@ vehicle_model_tags = doc.find_all('h3', class_=False, id=False)
 for tag in vehicle_model_tags:
     vehicle_models.append(tag.text)
     for model in brand_names:
-        if model in tag.text:
+        if model.lower() in tag.text.lower():
             model_manufacturer.append(model)
 len(model_manufacturer)
 
@@ -177,7 +177,7 @@ print('Adult', len(driver_safety_stars))
 print('Child', len(child_safety_stars))
 
 ncap1_dict = {
-    'Manufacturer': model_manufacturer[30:],
+    'Manufacturer': model_manufacturer[31:],
     'Model': vehicle_models[31:],
     'Adult Occupant': driver_safety_stars,
     'Child Occupant': child_safety_stars,
