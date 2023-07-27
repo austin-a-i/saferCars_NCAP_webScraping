@@ -1,0 +1,30 @@
+Sl.No,Manufacturer,Model,Star_rating,Published_Date,Adult_Safety,Child,Pedestrian,Safety
+1,Chevrolet,Chevrolet Tracker + 6 Airbags,5,Nov-22,91%,92%,54%,83%
+2,Citroen,Citroen C3 + 2 Airbags,0,Jul-23,31%,12%,50%,35%
+3,Fiat,Fiat Strada,0,Oct-22,41%,53%,40%,49%
+4,Fiat,Fiat Argo / Cronos + 2 Airbags,0,Dec-21,47%,22%,40%,42%
+5,Ford,Ford Ka + 2 Airbags,0,Dec-20,24%,10%,37%,7%
+6,Great Wall Motors,Great Wall Motors Wingle 5 + 2 Airbags,1,Dec-21,34%,9%,50%,7%
+7,Honda,Honda WR-V + 2 Airbags,3,Sep-22,9%,0%,19%,0%
+8,Hyundai,Hyundai Tucson + 6 Airbags,0,Aug-22,41%,41%,59%,49%
+9,Hyundai,Hyundai Tucson + 2 Airbags,0,Aug-22,82%,70%,48%,56%
+10,Hyundai,Hyundai Accent + 1 Airbag,0,Dec-21,50%,5%,48%,7%
+11,Hyundai,Hyundai Tucson + 2 Airbags,0,Dec-21,9%,13%,53%,7%
+12,Hyundai,Hyundai HB20 + 2 Airbags,0,Dec-20,51%,4%,50%,7%
+13,JAC,JAC E-JS1 / E10x / E-S1 / S1 + 2 Airbags,1,Dec-22,19%,10%,43%,14%
+14,Jeep,Jeep Renegade + 2 Airbags,3,Jul-23,0%,6%,20%,7%
+15,Kia,Kia Sportage + 6 Airbags,0,Dec-22,49%,67%,45%,56%
+16,Kia,Kia Sportage + 2 Airbags,0,Dec-21,82%,72%,48%,56%
+17,Kia,Kia Picanto / Morning + 1 Airbag,5,Oct-20,48%,15%,58%,7%
+18,Mitsubishi,Mitsubishi Outlander + 7 Airbags,5,Dec-22,0%,29%,51%,7%
+19,Nissan,Nissan Qashqai + 6 Airbags,2,Nov-22,90%,91%,55%,84%
+20,Peugeot,Peugeot 208 + 4 Airbags,0,Dec-21,94%,92%,54%,86%
+21,RAM,RAM 700,0,Oct-22,52%,55%,54%,56%
+22,Renault,Renault Duster + 2 Airbags,0,Aug-21,41%,53%,40%,49%
+23,Suzuki,Suzuki Baleno + 2 Airbags,5,Oct-21,47%,22%,40%,42%
+24,Suzuki,Suzuki Swift + 2 Airbags,1,Aug-21,29%,23%,51%,35%
+25,Toyota,Toyota Corolla + 7 Airbags,5,Dec-22,20%,17%,64%,7%
+26,Toyota,Toyota Yaris + 2 Airbags,5,Oct-21,16%,0%,66%,7%
+27,Volkswagen,Volkswagen Taigun + 6 Airbags,3,Jul-23,83%,92%,60%,82%
+28,Volkswagen,Volkswagen New Virtus + 6 Airbags,5,Dec-22,41%,64%,62%,42%
+29,Volkswagen,Volkswagen New Polo + 4 Airbags,5,Dec-22,92%,92%,55%,83%
