@@ -1,6 +1,6 @@
 # _NCAP_SafestCars_webScraping
  
-Web-Scraping using Python for creating a dataframe to retrieve the Safest Cars rating in Latin NCAP website for the year 2020-2023 and before 2020.
+Web-Scraping using BeautifulSoup lib in Python for creating a dataframe to retrieve the Safest Cars rating in Latin NCAP website for the year 2020-2023 and before 2020.
 
 1) Importing request library to extract site and parsing in HTML format using Beautiful Soup lib
 2) Extracting text(with tags) for each of the columns(brand,vehicle-model,date,adult-safety,child-safety,star rating,safety measures)
